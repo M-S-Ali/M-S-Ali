@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/M-S-Ali/M-S-Ali/blob/main/7gI7.gif?raw=true" alt="" width=275px height=500px/>
+<img align="right" src="https://github.com/M-S-Ali/M-S-Ali/blob/master/M-S-Ali%20Profile%20Readme%20GIF.gif?raw=true" alt="" width=275px height=500px/>
 
 ## Hello!! I'm Muhammed Syedali N 👋
 
