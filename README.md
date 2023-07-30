@@ -9,4 +9,4 @@ I am an graduate in Electrical And Electronics Engineering from in T.K.M. Colleg
 - 💞️ I’m looking to collaborate on any challenging works in my area of interests.
 - 💬 Ask me about arduino programming, RPI programming, DIgital, Analog and Power circuit Desingings, EV prototyping...
 - 🚴🏽‍♀️ Fun fact: a Hodophile and an unsolicited advisor who wishes to see 'zero' efforts going invain
-- 📫 Reach me via mail or linkedin: https://www.linkedin.com/in/msalisnps 
+- 📫 Reach me via mail or linkedin: https://www.linkedin.com/in/muhammedsyedalin 
