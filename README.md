@@ -2,7 +2,7 @@
 
 ## Hello!! I'm Muhammed Syedali N 👋
 
-I am an graduate in Electrical And Electronics Engineering from in T.K.M. College of Engineering Kerala, India. Currently working as Engineer in Tata Elxsi. Looking forward to have a strong career in Electric Automobiles, Power Electronics and Control system Industries.
+I am an graduate in Electrical And Electronics Engineering from in T.K.M. College of Engineering Kerala, India. Currently working as Engineer in Automotive Domain. Looking forward to have a strong career in Electric Automobiles, Power Electronics and Control system Industries.
 
 - 👀 I’m interested in Control System Electronics - microcontrollers, Power Circuits, Mechanical Assemblies, Electric Vehicles...
 - 🌱 I’m currently learning Matlab, SolidWorks, Python... 
